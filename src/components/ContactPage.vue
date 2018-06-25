@@ -33,10 +33,10 @@ export default {
 
       .emailtext, .emaillink {
         text-align: center;
-        width: 70%;
         font-size: 14px;
         color: black;
         margin: 0 auto;
+        font-family: Helvetica, Arial, sans-serif;
       }
     }
   }
